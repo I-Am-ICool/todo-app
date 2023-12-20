@@ -1,10 +1,12 @@
 fix my code
 this is weird
-add a new member
-make soup
-make pizza
-check this out
-interesting learnings
+Getting challengingGood ordermake pizza
+A case for Christinteresting learnings
 moduling is cool
 testing modules funtions
 Master Python!
+Jump the broom
+Think Python
+My newest todo is added
+Last todo
+And lastly
