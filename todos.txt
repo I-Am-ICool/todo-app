@@ -7,3 +7,4 @@ check this out
 interesting learnings
 moduling is cool
 testing modules funtions
+Master Python!
