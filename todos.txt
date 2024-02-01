@@ -1,3 +1,4 @@
 Coding is interesting
 Improve the app
 Gradually getting better
+Learning deployment
